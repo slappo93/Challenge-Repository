@@ -1,2 +1,1 @@
-# Challenge-Repository
-Repository for homework assignments
+# module-challenges-1
